@@ -28,7 +28,7 @@ public class BankAccount {
     }
 
     public void deposit(double amount) {
-        balance += amount;
+        balance = balance + amount;
         transactions.add("Deposited: " + amount + ", Balance: " + balance);
     }
 
@@ -36,7 +36,7 @@ public class BankAccount {
         if (amount > balance) {
             throw new Exception("Insufficient funds!");
         }
-        balance -= amount;
+        balance = balance - amount;
         transactions.add("Withdrew: " + amount + ", Balance: " + balance);
     }
 

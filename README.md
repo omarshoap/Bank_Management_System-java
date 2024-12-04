@@ -4,7 +4,7 @@
 # Java Bank Management System
 
 ## **Project Overview**
-The **Java Bank Management System** is a console-based application that simulates basic banking operations. It demonstrates the use of object-oriented programming (OOP) principles, Java collections, and exception handling.
+The **Java Bank Management System** is a console-based application that simulates basic banking operations. It demonstrates the use of OOP principles, Java collections, and exception handling.
 
 ---
 

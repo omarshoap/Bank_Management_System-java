@@ -9,7 +9,6 @@ public class BankManagementSystem {
         while (true) {
             System.out.println(" ");
             System.out.println(" ");
-            System.out.println(" ");
             System.out.println("=======================================");
             System.out.println("               Main Menu               ");
             System.out.println("=======================================");

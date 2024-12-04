@@ -7,6 +7,9 @@ public class BankManagementSystem {
         BankAccount account = null;
 
         while (true) {
+            System.out.println(" ");
+            System.out.println(" ");
+            System.out.println(" ");
             System.out.println("=======================================");
             System.out.println("               Main Menu               ");
             System.out.println("=======================================");
